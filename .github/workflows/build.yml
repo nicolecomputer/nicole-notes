@@ -12,4 +12,8 @@ jobs:
           node-version: 20
           cache: "npm"
       - run: "rm -rf content"
+      - uses: actions/checkout@v4
+        with:
+          repository: nicolecomputer/nicole-notes
+          path: "content"
       - run: "ls"
