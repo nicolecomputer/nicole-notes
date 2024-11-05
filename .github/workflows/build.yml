@@ -23,4 +23,4 @@ jobs:
           path: "content"
       - run: npm i
       - run: npx quartz build
-      - run: "ls"
+      - run: "ls public"
