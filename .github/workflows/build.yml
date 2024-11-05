@@ -21,5 +21,6 @@ jobs:
         with:
           repository: nicolecomputer/nicole-notes
           path: "content"
+      - run: npx i
       - run: npx quartz build
       - run: "ls"
