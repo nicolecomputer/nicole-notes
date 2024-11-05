@@ -8,4 +8,4 @@ jobs:
         with:
           repository: nicolecomputer/quartz
           path: quartz
-      - run: "ls quartz"
+      - run: "cd quartz; bash build.sh; ls public"
