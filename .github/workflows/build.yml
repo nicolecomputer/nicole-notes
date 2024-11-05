@@ -1,0 +1,9 @@
+name: Build website
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          name: nicolecomputer/quartz
