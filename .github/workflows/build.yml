@@ -11,4 +11,5 @@ jobs:
         with:
           node-version: 20
           cache: "npm"
-      - run: "cd quartz; bash build.sh; ls public"
+      - run: "rm -rf content"
+      - run: "ls"
