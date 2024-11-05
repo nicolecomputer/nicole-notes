@@ -7,3 +7,5 @@ jobs:
       - uses: actions/checkout@v4
         with:
           repository: nicolecomputer/quartz
+          path: quartz
+      - run: "ls quartz"
