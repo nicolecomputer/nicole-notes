@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8cb680d89c0d9b6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2024-11-05.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "daily/2024-11-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "daily/2024-11-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "daily/2024-11-05.md"
               }
             }
           }
@@ -160,10 +172,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "770d788072851229",
+  "active": "8cb680d89c0d9b6b",
   "lastOpenFiles": [
-    "daily.md",
     "index.md",
+    "daily.md",
     "daily/2024-11-05.md",
     "Untitled.canvas",
     "daily",
