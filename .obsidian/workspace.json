@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creative Coding.md",
+                "file": "notes/Creative Coding.md",
                 "mode": "source",
                 "source": false
               },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Creative Coding.md"
+                "file": "notes/Creative Coding.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Creative Coding"
@@ -184,14 +184,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad1015cb6fc7ca09",
+  "active": "34bf244dc6f78182",
   "lastOpenFiles": [
+    "notes/Untitled.md",
+    "notes/Creative Coding.md",
+    "notes",
     "daily/2024-11-05.md",
     "_templates/daily.md",
-    "TODO.md",
+    "notes/TODO.md",
     "index.md",
-    "Creative Coding.md",
-    "notes/Creative Coding.md",
     "Untitled 1.md",
     "_templates/note.md",
     "notes",
