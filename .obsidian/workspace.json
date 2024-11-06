@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/daily.md",
+                "file": "daily/2024-11-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,8 +101,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "89731b3a1f2895d8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -122,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/daily.md",
+                "file": "daily/2024-11-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/daily.md",
+                "file": "daily/2024-11-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,16 +171,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/daily.md"
+                "file": "daily/2024-11-05.md"
               }
-            }
-          },
-          {
-            "id": "89731b3a1f2895d8",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -183,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -200,12 +201,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "230a32a293c42dc9",
+  "active": "34bf244dc6f78182",
   "lastOpenFiles": [
-    "daily/2024-11-05.md",
     "daily/2024-11-06.md",
-    "index.md",
+    "daily/2024-11-05.md",
     "_templates/daily.md",
+    "index.md",
     "_templates",
     "daily.md",
     "Untitled.canvas",
