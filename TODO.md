@@ -1,0 +1,2 @@
+-  [ ] Javascript generators- further exploration
+-  [ ] Automatic templating for obsidian (I'd like every note to have front matter to make it easy to publish and tag)

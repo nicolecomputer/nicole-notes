@@ -89,9 +89,23 @@
               "icon": "lucide-file",
               "title": "2024-11-05"
             }
+          },
+          {
+            "id": "ee76343c60734bae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -173,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-11-05.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +197,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-11-05"
+              "title": "Backlinks for TODO"
             }
           },
           {
@@ -192,12 +206,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-11-05.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-11-05"
+              "title": "Outgoing links from TODO"
             }
           },
           {
@@ -219,10 +233,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-11-05.md"
+                "file": "TODO.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-11-05"
+              "title": "Outline of TODO"
             }
           },
           {
@@ -253,11 +267,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "971f8f0c3649e51c",
+  "active": "ee76343c60734bae",
   "lastOpenFiles": [
+    "daily/2024-11-05.md",
+    "TODO.md",
     "Creative Coding.md",
     "index.md",
-    "daily/2024-11-05.md",
     "Creative Codin.md",
     "daily/2024-11-06.md",
     "_templates/daily.md",
