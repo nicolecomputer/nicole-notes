@@ -15,8 +15,12 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "notes",
+      "template": "_templates/note.md"
+    },
+    {
+      "folder": "/",
+      "template": "_templates/note.md"
     }
   ],
   "enable_file_templates": false,
