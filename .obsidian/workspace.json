@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "daily/2024-11-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2024-11-06"
             }
           }
         ],
@@ -233,8 +233,6 @@
     "hiddenItems": {
       "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
@@ -243,8 +241,9 @@
   },
   "active": "8f23c732d7a38b28",
   "lastOpenFiles": [
-    "now.md",
     "index.md",
+    "daily/2024-11-06.md",
+    "now.md",
     "notes/Undo.md",
     "notes/Recurse Projects.md",
     "notes/Creative Coding.md",
@@ -256,7 +255,6 @@
     "_templates/note.md",
     "notes",
     "Creative Codin.md",
-    "daily/2024-11-06.md",
     "_templates",
     "daily.md",
     "Untitled.canvas",
