@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "daily/2024-11-05.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of TODO"
+              "title": "Outline of 2024-11-05"
             }
           },
           {
@@ -184,7 +184,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad1015cb6fc7ca09",
+  "active": "34bf244dc6f78182",
   "lastOpenFiles": [
     "_templates/daily.md",
     "daily/2024-11-05.md",
