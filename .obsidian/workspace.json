@@ -253,12 +253,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "367c5c83e3440bba",
+  "active": "4312ea44900738bf",
   "lastOpenFiles": [
+    "_templates/daily.md",
+    "notes/People/Sufian.md",
+    "notes/People",
+    "daily/2024-11-06.md",
     "daily/DSC05794.jpg",
     "daily/assets",
     "daily/2024-11-05.md",
-    "daily/2024-11-06.md",
     "notes/People  I met.md",
     "index.md",
     "now.md",
@@ -266,7 +269,6 @@
     "notes/Recurse Projects.md",
     "notes/Creative Coding.md",
     "notes",
-    "_templates/daily.md",
     "notes/TODO.md",
     "Untitled 1.md",
     "_templates/note.md",
