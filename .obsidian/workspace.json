@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/People  I met.md",
+                "file": "daily/2024-11-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "People  I met"
+              "title": "2024-11-06"
             }
           }
         ],
@@ -255,6 +255,7 @@
   },
   "active": "4312ea44900738bf",
   "lastOpenFiles": [
+    "notes/People  I met.md",
     "daily/2024-11-06.md",
     "_templates/daily.md",
     "notes/People/Sufian.md",
@@ -262,7 +263,6 @@
     "daily/DSC05794.jpg",
     "daily/assets",
     "daily/2024-11-05.md",
-    "notes/People  I met.md",
     "index.md",
     "now.md",
     "notes/Undo.md",
