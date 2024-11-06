@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-11-05.md",
+                "file": "Creative Coding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-05"
+              "title": "Creative Coding"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-11-05.md"
+                "file": "Creative Coding.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-11-05"
+              "title": "Outline of Creative Coding"
             }
           },
           {
@@ -184,10 +184,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "34bf244dc6f78182",
+  "active": "ad1015cb6fc7ca09",
   "lastOpenFiles": [
-    "_templates/daily.md",
     "daily/2024-11-05.md",
+    "_templates/daily.md",
     "TODO.md",
     "index.md",
     "Creative Coding.md",
