@@ -1,4 +1,5 @@
 ---
-tags: 
+tags:
+  - recurse
 publish: true
 ---

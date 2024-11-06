@@ -1,6 +1,6 @@
 ---
 title: Welcome!
-draft: false
+publish: true
 tags:
 ---
 Hello! You've found my collection of notes. You might be looking for
