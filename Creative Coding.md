@@ -1,0 +1,2 @@
+## Ideas
+- Sinusoidal circles
