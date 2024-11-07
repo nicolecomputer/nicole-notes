@@ -6,6 +6,6 @@ publish: true
 
 ## End of day
 
-**Today I worked**:
+### Worked on Today
 
 ### Tomorrow

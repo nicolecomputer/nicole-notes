@@ -172,13 +172,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "38675ad62972b1a3",
+  "active": "55e45804d30a6487",
   "lastOpenFiles": [
+    "_templates/daily.md",
+    "_templates/note.md",
+    "daily/2024-11-07.md",
     "notes/Recurse Projects.md",
     "notes/TODO.md",
-    "daily/2024-11-07.md",
     "notes/Undo.md",
-    "_templates/daily.md",
     "daily/2024-11-06.md",
     "notes/People  I met.md",
     "notes/People/Sufian.md",
@@ -191,7 +192,6 @@
     "notes/Creative Coding.md",
     "notes",
     "Untitled 1.md",
-    "_templates/note.md",
     "notes",
     "Creative Codin.md",
     "_templates",
