@@ -19,6 +19,7 @@ publish: true
 
 **Code URL:** [https://github.com/nicolecomputer/creative-coding/](https://github.com/nicolecomputer/creative-coding/)
 **Deployed:** [https://creative.nicole.computer/](https://creative.nicole.computer/) (Although it doesn't currently have an index file)
-**Resource:**
+**Resources:**
 - [The Nature of Code Book](https://natureofcode.com/)
-- [Coding Train Youtube Videos]()
+- [Coding Train Youtube Videos](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+**Description:** I want to illustrate some of my poetry with computational art. Someday I want them all together in a collection called "You belong"
