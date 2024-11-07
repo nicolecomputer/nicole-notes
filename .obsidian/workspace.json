@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Undo.md",
+                "file": "daily/2024-11-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Undo"
+              "title": "2024-11-07"
             }
           }
         ]
@@ -142,6 +142,18 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "38675ad62972b1a3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "daily/2024-11-07.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-11-07"
+            }
           }
         ],
         "currentTab": 2
@@ -160,8 +172,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "85d2997705938306",
+  "active": "55e45804d30a6487",
   "lastOpenFiles": [
+    "notes/Undo.md",
+    "daily/2024-11-07.md",
     "_templates/daily.md",
     "daily/2024-11-06.md",
     "notes/People  I met.md",
@@ -172,7 +186,6 @@
     "daily/2024-11-05.md",
     "index.md",
     "now.md",
-    "notes/Undo.md",
     "notes/Recurse Projects.md",
     "notes/Creative Coding.md",
     "notes",
