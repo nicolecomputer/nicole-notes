@@ -156,11 +156,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 460.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,7 +172,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "55e45804d30a6487",
+  "active": "38675ad62972b1a3",
   "lastOpenFiles": [
     "notes/Recurse Projects.md",
     "notes/TODO.md",
