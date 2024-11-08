@@ -3,6 +3,7 @@ title: Working on Right Now
 tags: 
 publish: true
 ---
+I'm currently at the [Recurse Center]() in NYC. I get the joyful opportunity to explore so many things without curious and creative folks. Here are some things I'm thinking about:
 ## Undo Project
 
 **App URL**: [https://undo.nicole.computer/](https://undo.nicole.computer/)

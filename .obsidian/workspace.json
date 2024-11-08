@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-11-08.md",
+                "file": "now.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-08"
+              "title": "now"
             }
           }
         ],
@@ -164,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-11-08.md"
+                "file": "now.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-11-08"
+              "title": "Outline of now"
             }
           }
         ],
@@ -189,8 +189,8 @@
   },
   "active": "7fde4fb11966f90b",
   "lastOpenFiles": [
-    "daily/2024-11-07.md",
     "daily/2024-11-08.md",
+    "daily/2024-11-07.md",
     "notes/Media.md",
     "notes/TODO.md",
     "daily/2024-11-06.md",
