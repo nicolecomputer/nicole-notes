@@ -83,7 +83,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -172,7 +173,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "55e45804d30a6487",
+  "active": "89731b3a1f2895d8",
   "lastOpenFiles": [
     "daily/2024-11-07.md",
     "daily/2024-11-06.md",
