@@ -11,8 +11,8 @@
   "quality": 0.75,
   "baseTimeout": 20000,
   "timeoutPerMB": 1000,
-  "showProgress": true,
-  "showSummary": true,
+  "showProgress": false,
+  "showSummary": false,
   "ProcessAllVaultconvertTo": "webp",
   "ProcessAllVaultquality": 0.75,
   "ProcessAllVaultResizeModalresizeMode": "None",
@@ -46,5 +46,5 @@
   "rememberScrollPosition": true,
   "cursorPosition": "back",
   "useMdLinks": true,
-  "useRelativePath": true
+  "useRelativePath": false
 }
