@@ -2,5 +2,7 @@
   "attachmentFolderPath": "./assets",
   "promptDelete": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "notes"
+  "newFileFolderPath": "notes",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
 }
